@@ -15,6 +15,9 @@
   //   top: 50%;
   //   left: 50%;
   //   translate: -50% -50%;
-  //   pointer-events: none;
+  pointer-events: none;
+  & > div {
+    pointer-events: all;
+  }
   // }
 }

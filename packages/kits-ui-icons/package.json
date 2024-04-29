@@ -1,6 +1,6 @@
 {
   "name": "@kits-ui/icons",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "",
   "main": "dist/index.icon.js",
   "module": "dist/index.icon.js",
